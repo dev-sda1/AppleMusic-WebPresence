@@ -3,7 +3,7 @@ Bring iTunes / Apple Music song info to your own website embed. Similar to [spot
 
 # Prerequisites
 - NodeJS and npm (sadly this was done with express)
-- Windows PC with iTunes installed. Microsoft Store version may be glitchy, so for optimal stability I advise using the desktop version.
+- Windows PC with iTunes installed. Microsoft Store version may be glitchy, so for optimal stability I advise using the desktop version. (Apologies, macOS and Linux users D:)
 - A webserver to host the endpoint on
 
 # Setting up the Server
